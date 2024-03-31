@@ -1,0 +1,13 @@
+C:\Users\Nico\source\repos\TXT_DeEncrypt\TXT_DeEncrypt\bin\Debug\TXT_DeEncrypt.exe.config
+C:\Users\Nico\source\repos\TXT_DeEncrypt\TXT_DeEncrypt\bin\Debug\TXT_DeEncrypt.exe
+C:\Users\Nico\source\repos\TXT_DeEncrypt\TXT_DeEncrypt\bin\Debug\TXT_DeEncrypt.pdb
+C:\Users\Nico\source\repos\TXT_DeEncrypt\TXT_DeEncrypt\bin\Debug\TXT_DeEncrypt.xml
+C:\Users\Nico\source\repos\TXT_DeEncrypt\TXT_DeEncrypt\obj\Debug\TXT_DeEncrypt.FrmAbout.resources
+C:\Users\Nico\source\repos\TXT_DeEncrypt\TXT_DeEncrypt\obj\Debug\TXT_DeEncrypt.FrmEingabePW.resources
+C:\Users\Nico\source\repos\TXT_DeEncrypt\TXT_DeEncrypt\obj\Debug\TXT_DeEncrypt.FrmMain.resources
+C:\Users\Nico\source\repos\TXT_DeEncrypt\TXT_DeEncrypt\obj\Debug\TXT_DeEncrypt.Resources.resources
+C:\Users\Nico\source\repos\TXT_DeEncrypt\TXT_DeEncrypt\obj\Debug\TXT_DeEncrypt.vbproj.GenerateResource.cache
+C:\Users\Nico\source\repos\TXT_DeEncrypt\TXT_DeEncrypt\obj\Debug\TXT_DeEncrypt.vbproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\TXT_DeEncrypt\TXT_DeEncrypt\obj\Debug\TXT_DeEncrypt.exe
+C:\Users\Nico\source\repos\TXT_DeEncrypt\TXT_DeEncrypt\obj\Debug\TXT_DeEncrypt.xml
+C:\Users\Nico\source\repos\TXT_DeEncrypt\TXT_DeEncrypt\obj\Debug\TXT_DeEncrypt.pdb
